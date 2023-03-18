@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 222b400f7979b7b4387c480e1e5e27a3, type: 3}
+  m_Name: Loader 2
+  m_EditorClassIdentifier: 
+  _receiveField:
+    _assembly: 
+    _type: 
+    _field: 
+  _onInstantiated:
+    _assembly: 
+    _type: 
+    _method: 
+    _parameterTypes: []
+  _onDestroyed:
+    _assembly: 
+    _type: 
+    _method: 
+    _parameterTypes: []
+  _layer: {fileID: 11400000, guid: 10ce2625fc29dee4487c51bf898509bf, type: 2}
+  _loadParameter:
+    StartWhere:
+    - {fileID: 11400000, guid: 10ce2625fc29dee4487c51bf898509bf, type: 2}
+    StartWhen: 3
+    EndWhen: 3
+  _unloadParameter:
+    StartWhen: 3
+    EndWhen: 3
+  _instantiateParameter:
+    StartWhen: 5
+    EndWhen: 5
+  _destroyParameter:
+    StartWhen: 3
+    EndWhen: 3
+  _dependenceLoaders: []
+  _se: Quiz-Correct_Answer02-2

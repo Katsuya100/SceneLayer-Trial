@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a68f524635720644859183dc884c81e, type: 3}
+  m_Name: Transition 2
+  m_EditorClassIdentifier: 
+  _activeSelf: 1
+  _from: {fileID: 11400000, guid: d21b63317bc7b3647bfaa37abb56803b, type: 2}
+  _to: {fileID: 11400000, guid: 10ce2625fc29dee4487c51bf898509bf, type: 2}
+  _mappingParams: []
+  _passwordInput:
+    _id: GlobalObjectId_V1-2-4538a888c1d4eda489d58d601c935a83-1803618897586480738-0
+  _password: test

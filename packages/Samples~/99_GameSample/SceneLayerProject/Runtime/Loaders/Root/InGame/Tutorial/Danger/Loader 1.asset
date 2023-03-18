@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 555136677, guid: 863c136060993f94dabd1f217b9e63db, type: 3}
+  m_Name: Loader 1
+  m_EditorClassIdentifier: 
+  _receiveField:
+    _assembly: 
+    _type: 
+    _field: 
+  _onInstantiated:
+    _assembly: 
+    _type: 
+    _method: 
+    _parameterTypes: []
+  _onDestroyed:
+    _assembly: 
+    _type: 
+    _method: 
+    _parameterTypes: []
+  _layer: {fileID: 11400000, guid: cd1398758907e824f82efd8cf408c2fd, type: 2}
+  _loadParameter:
+    StartWhere:
+    - {fileID: 11400000, guid: cd1398758907e824f82efd8cf408c2fd, type: 2}
+    - {fileID: 11400000, guid: 6b2df86b54a361d4bb43baf668085300, type: 2}
+    - {fileID: 11400000, guid: 0bd5439cb7e940e46a495ba94164b848, type: 2}
+    StartWhen: 3
+    EndWhen: 3
+  _unloadParameter:
+    StartWhen: 3
+    EndWhen: 3
+  _instantiateParameter:
+    StartWhen: 3
+    EndWhen: 3
+  _destroyParameter:
+    StartWhen: 3
+    EndWhen: 3
+  _dependenceLoaders: []
+  _prefab: Common/Prefabs/Tutorial/Danger
+  _parent:
+    _id: GlobalObjectId_V1-2-7eaef24915f3e134aa2d3a7a93524557-1481137838-0

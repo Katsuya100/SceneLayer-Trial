@@ -1,0 +1,38 @@
+﻿using Katuusagi.SceneLayer;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : LoaderBehaviour
+{
+    public override object GetInstance()
+    {
+        return null;
+    }
+
+    public override Type GetInstanceType()
+    {
+        return typeof(object);
+    }
+
+    protected override IEnumerator Load()
+    {
+        yield break;
+    }
+
+    protected override IEnumerator InstantiateObject()
+    {
+        yield break;
+    }
+
+    protected override IEnumerator DestroyObject()
+    {
+        yield break;
+    }
+
+    protected override IEnumerator Unload()
+    {
+        yield break;
+    }
+}

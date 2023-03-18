@@ -1,0 +1,15 @@
+using Katuusagi.SceneLayer;
+using Katuusagi.SceneLayer.Editor;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEditor;
+using UnityEngine;
+
+[CustomEditor(typeof(), true)]
+public class #SCRIPTNAME# : TransitionInspector
+{
+    protected override void OnPropertyInspectorGUI()
+    {
+    }
+}

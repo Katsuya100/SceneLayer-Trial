@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 962800047, guid: b903cf34eb85df743b5c9526e74a57b3, type: 3}
+  m_Name: SceneLayerProject
+  m_EditorClassIdentifier: 
+  _anyNodes:
+  - _self:
+      _idStack: caf485672edefcf3
+    _position: {x: -4, y: 27}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: b63022b2
+    _position: {x: 0, y: 0}
+    _project: {fileID: 11400000}
+  _nodes:
+  - _self:
+      _idStack: caf48567
+    _position: {x: 0, y: 0}
+    _thumbnail: {fileID: 4523428348363830222, guid: 7d8cba7ea28be884f8e29dbd9bff1f56, type: 2}
+    _layer: {fileID: 11400000, guid: 96a8480326e1f3844ae84d1b08ac34ed, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: caf48567ec724a05
+    _position: {x: -3, y: 93}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: d21b63317bc7b3647bfaa37abb56803b, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: caf485672b5902b3
+    _position: {x: 194, y: 93}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: 10ce2625fc29dee4487c51bf898509bf, type: 2}
+    _project: {fileID: 11400000}
+  _edges:
+  - _self:
+      _idStack: caf48567ec724a05ad583cf5
+    _to:
+      _idStack: caf485672b5902b3
+    _transitions:
+    - {fileID: 11400000, guid: bc601cf0d85f6894a949f292b282b902, type: 2}
+    _project: {fileID: 11400000}
+  _nodeViewId: 1546523675
+  _entry: {fileID: 11400000, guid: 6a7170e57d713bf4e93b408ede21bc46, type: 2}
+  _thumbnail: {fileID: 11400000, guid: 7d8cba7ea28be884f8e29dbd9bff1f56, type: 2}
+  _defaultLayerScript: {fileID: -905849148, guid: 863c136060993f94dabd1f217b9e63db, type: 3}
+  _defaultTransitionScript: {fileID: 1070477915, guid: 863c136060993f94dabd1f217b9e63db, type: 3}
+  _defaultLoaderScript: {fileID: 2017282659, guid: 863c136060993f94dabd1f217b9e63db, type: 3}

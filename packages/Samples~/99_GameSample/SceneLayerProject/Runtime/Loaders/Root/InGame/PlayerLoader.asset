@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 555136677, guid: 863c136060993f94dabd1f217b9e63db, type: 3}
+  m_Name: PlayerLoader
+  m_EditorClassIdentifier: 
+  _receiveField:
+    _assembly: 
+    _type: 
+    _field: 
+  _onInstantiated:
+    _assembly: 
+    _type: 
+    _method: 
+    _parameterTypes: []
+  _onDestroyed:
+    _assembly: 
+    _type: 
+    _method: 
+    _parameterTypes: []
+  _layer: {fileID: 11400000, guid: 645f8941b207b164cb445ee0a0e13775, type: 2}
+  _loadParameter:
+    StartWhere:
+    - {fileID: 11400000, guid: 645f8941b207b164cb445ee0a0e13775, type: 2}
+    - {fileID: 11400000, guid: 733c70b48be7d9445b430735e9073317, type: 2}
+    - {fileID: 11400000, guid: 7fbf2d0fff7da8e468d14cf69be438d4, type: 2}
+    - {fileID: 11400000, guid: 2ecc585062137af4c935cadb10a431b8, type: 2}
+    - {fileID: 11400000, guid: 9241e181647b2434ab9dc539a131ccc6, type: 2}
+    StartWhen: 1
+    EndWhen: 7
+  _unloadParameter:
+    StartWhen: 3
+    EndWhen: 3
+  _instantiateParameter:
+    StartWhen: 3
+    EndWhen: 3
+  _destroyParameter:
+    StartWhen: 3
+    EndWhen: 3
+  _dependenceLoaders:
+  - {fileID: 11400000, guid: 813d125219df9b34a9c6647c6e354374, type: 2}
+  _prefab: Player/Unitychan
+  _parent:
+    _id: GlobalObjectId_V1-2-7eaef24915f3e134aa2d3a7a93524557-1126486763-0

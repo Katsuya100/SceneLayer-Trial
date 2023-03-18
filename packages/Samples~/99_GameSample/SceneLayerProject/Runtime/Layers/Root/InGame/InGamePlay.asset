@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d2a06967f3dc1342b317267cfeb33d1, type: 3}
+  m_Name: InGamePlay
+  m_EditorClassIdentifier: 
+  _activeSelf: 1
+  _entry: {fileID: 11400000, guid: 5f523bfb931a0be4883b7629c53a60b7, type: 2}
+  _parent: {fileID: 11400000, guid: 645f8941b207b164cb445ee0a0e13775, type: 2}
+  _children: []
+  _loaders:
+  - {fileID: 11400000, guid: 4b3ce269766538c4185ac9b48cc3ed78, type: 2}
+  _transitions:
+  - {fileID: 11400000, guid: c195217b28937c04688616639070658e, type: 2}
+  - {fileID: 11400000, guid: 9a306edda12d38f4a8f19bff11838ff2, type: 2}
+  _scoreText:
+    _id: GlobalObjectId_V1-1-47f9cf33f43c2c142a08da67c436710e-7906411003748562802-0

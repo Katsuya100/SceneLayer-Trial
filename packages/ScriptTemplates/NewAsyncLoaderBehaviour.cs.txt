@@ -1,0 +1,38 @@
+﻿using Katuusagi.SceneLayer;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : LoaderBehaviour
+{
+    public override object GetInstance()
+    {
+        return null;
+    }
+
+    public override Type GetInstanceType()
+    {
+        return typeof(object);
+    }
+
+    protected override async LayerAsync Load()
+    {
+        await LayerAsync.Completed;
+    }
+
+    protected override async LayerAsync InstantiateObject()
+    {
+        await LayerAsync.Completed;
+    }
+
+    protected override async LayerAsync DestroyObject()
+    {
+        await LayerAsync.Completed;
+    }
+
+    protected override async LayerAsync Unload()
+    {
+        await LayerAsync.Completed;
+    }
+}

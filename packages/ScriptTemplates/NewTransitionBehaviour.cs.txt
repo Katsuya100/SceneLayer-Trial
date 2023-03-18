@@ -1,0 +1,12 @@
+﻿using Katuusagi.SceneLayer;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME#  : TransitionBehaviour
+{
+    protected override bool IsTransitable()
+    {
+        return false;
+    }
+}

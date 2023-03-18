@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 962800047, guid: b903cf34eb85df743b5c9526e74a57b3, type: 3}
+  m_Name: SceneLayerProject
+  m_EditorClassIdentifier: 
+  _anyNodes:
+  - _self:
+      _idStack: 5cf272e0904c43e3e070fba0
+    _position: {x: 0, y: 0}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7946529d6bcbd53e6a
+    _position: {x: -0, y: -50}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc797a74544d
+    _position: {x: -1, y: 41}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0c9035d04
+    _position: {x: 7, y: 0}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 615b9eea
+    _position: {x: 0, y: 0}
+    _project: {fileID: 11400000}
+  _nodes:
+  - _self:
+      _idStack: 5cf272e0
+    _position: {x: 0, y: 59}
+    _thumbnail: {fileID: 3222767428716931389, guid: 560339ae04096c34d958d91224d63d6a, type: 2}
+    _layer: {fileID: 11400000, guid: e56ac8284ca73a94b9c4060ffec9994b, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0904c43e3
+    _position: {x: 7, y: 89}
+    _thumbnail: {fileID: 981077174854109398, guid: 560339ae04096c34d958d91224d63d6a, type: 2}
+    _layer: {fileID: 11400000, guid: 7fbf2d0fff7da8e468d14cf69be438d4, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0904c43e36f334275
+    _position: {x: -4, y: 73}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: 9241e181647b2434ab9dc539a131ccc6, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0904c43e30b7b2dfd
+    _position: {x: 223, y: 73}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: 2ecc585062137af4c935cadb10a431b8, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc79
+    _position: {x: 207, y: 88}
+    _thumbnail: {fileID: -8875760118288170353, guid: 560339ae04096c34d958d91224d63d6a, type: 2}
+    _layer: {fileID: 11400000, guid: 645f8941b207b164cb445ee0a0e13775, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc794e97412a
+    _position: {x: 197, y: 107}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: 80f4878e03eb680419f3b2e48cb0aa82, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7971550ce8
+    _position: {x: 380, y: 109}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: c35c440f9cbbfd844bd6bbaa9d7434ae, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc79f21e2e84
+    _position: {x: 380, y: 31}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: d006db89e0d90e5459e5b1387952733d, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc79d8fb48a2
+    _position: {x: 379, y: 192}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: 6262404fe5089534cac04799a2d31683, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7946529d6b
+    _position: {x: 197, y: 198}
+    _thumbnail: {fileID: 9160055638834104475, guid: 560339ae04096c34d958d91224d63d6a, type: 2}
+    _layer: {fileID: 11400000, guid: c280af2362e977148bdbf801cd3108bd, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7946529d6b08e19fcf
+    _position: {x: -2.0999756, y: 156.70001}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: cd1398758907e824f82efd8cf408c2fd, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7946529d6b15797ef4
+    _position: {x: -4, y: 18}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: 6b2df86b54a361d4bb43baf668085300, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7946529d6b4df62d5f
+    _position: {x: -2, y: 90}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: 0bd5439cb7e940e46a495ba94164b848, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7929baca7f
+    _position: {x: 3, y: 107}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: 7a26b1cba0ce62c43a573867fa88094b, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0d503a5ed
+    _position: {x: 208, y: 292}
+    _thumbnail: {fileID: 0}
+    _layer: {fileID: 11400000, guid: 733c70b48be7d9445b430735e9073317, type: 2}
+    _project: {fileID: 11400000}
+  _edges:
+  - _self:
+      _idStack: 5cf272e0904c43e3581ae08f
+    _to:
+      _idStack: 5cf272e0da1dcc79
+    _transitions:
+    - {fileID: 11400000, guid: c1a2a1a063479e749bebb40553a0b133, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0c9035d048b05fb7d
+    _to:
+      _idStack: 5cf272e0904c43e3
+    _transitions:
+    - {fileID: 11400000, guid: 8996640a400f46942b334796cdf7937c, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0d503a5ed22724b7c
+    _to:
+      _idStack: 5cf272e0da1dcc79
+    _transitions:
+    - {fileID: 11400000, guid: 049aa7b05addfac4d9891be4e92c66e6, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc79b9bbbbeb
+    _to:
+      _idStack: 5cf272e0d503a5ed
+    _transitions:
+    - {fileID: 11400000, guid: d750b746c3e76b74ab9acbeb76e42beb, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0904c43e36f334275671097e6
+    _to:
+      _idStack: 5cf272e0904c43e30b7b2dfd
+    _transitions:
+    - {fileID: 11400000, guid: 370ec22d5de47bb4680191927363c5fa, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0904c43e30b7b2dfde48e6464
+    _to:
+      _idStack: 5cf272e0904c43e36f334275
+    _transitions:
+    - {fileID: 11400000, guid: 738faf270503f82459d9789785eeda4b, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc794e97412a0d0f5ceb
+    _to:
+      _idStack: 5cf272e0da1dcc7971550ce8
+    _transitions:
+    - {fileID: 11400000, guid: 6db1fee5b585005448feb0bbe2bbac8a, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7971550ce8ddeaae41
+    _to:
+      _idStack: 5cf272e0da1dcc79f21e2e84
+    _transitions:
+    - {fileID: 11400000, guid: c195217b28937c04688616639070658e, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc79f21e2e84070ff3a4
+    _to:
+      _idStack: 5cf272e0da1dcc7971550ce8
+    _transitions:
+    - {fileID: 11400000, guid: efa6f5e85f5cac64290f456ae518fd1e, type: 2}
+    - {fileID: 11400000, guid: 5635075e910976346baa9579e380a3f4, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7971550ce830c0d9db
+    _to:
+      _idStack: 5cf272e0da1dcc79d8fb48a2
+    _transitions:
+    - {fileID: 11400000, guid: 9a306edda12d38f4a8f19bff11838ff2, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7946529d6bc3569c64
+    _to:
+      _idStack: 5cf272e0da1dcc794e97412a
+    _transitions:
+    - {fileID: 11400000, guid: f0c0bc8feed86d046bd25c7f8ad59328, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7929baca7fa5d71351
+    _to:
+      _idStack: 5cf272e0da1dcc7946529d6b
+    _transitions:
+    - {fileID: 11400000, guid: 99a87e4f90bec044bbb9a5479289634e, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7929baca7fa46533d8
+    _to:
+      _idStack: 5cf272e0da1dcc794e97412a
+    _transitions:
+    - {fileID: 11400000, guid: e2b5f76cea2a1c7469f90a33c5f07d07, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7946529d6b15797ef448b21bdc
+    _to:
+      _idStack: 5cf272e0da1dcc7946529d6b4df62d5f
+    _transitions:
+    - {fileID: 11400000, guid: 532acf85999e63e41a7f0b810e9fbd7a, type: 2}
+    _project: {fileID: 11400000}
+  - _self:
+      _idStack: 5cf272e0da1dcc7946529d6b4df62d5f6624c107
+    _to:
+      _idStack: 5cf272e0da1dcc7946529d6b08e19fcf
+    _transitions:
+    - {fileID: 11400000, guid: 22ab42f98682f3b458a56711bd7416c3, type: 2}
+    _project: {fileID: 11400000}
+  _nodeViewId: 596572675
+  _entry: {fileID: 11400000, guid: 5f523bfb931a0be4883b7629c53a60b7, type: 2}
+  _thumbnail: {fileID: 11400000, guid: 560339ae04096c34d958d91224d63d6a, type: 2}
+  _defaultLayerScript: {fileID: -905849148, guid: 863c136060993f94dabd1f217b9e63db, type: 3}
+  _defaultTransitionScript: {fileID: 1070477915, guid: 863c136060993f94dabd1f217b9e63db, type: 3}
+  _defaultLoaderScript: {fileID: 2017282659, guid: 863c136060993f94dabd1f217b9e63db, type: 3}

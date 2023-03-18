@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6b702f6f113b7a469f3b7a0b453e9a8, type: 3}
+  m_Name: Root
+  m_EditorClassIdentifier: 
+  _activeSelf: 1
+  _entry: {fileID: 11400000, guid: 5f523bfb931a0be4883b7629c53a60b7, type: 2}
+  _parent: {fileID: 0}
+  _children:
+  - {fileID: 11400000, guid: 7fbf2d0fff7da8e468d14cf69be438d4, type: 2}
+  - {fileID: 11400000, guid: 645f8941b207b164cb445ee0a0e13775, type: 2}
+  - {fileID: 11400000, guid: 733c70b48be7d9445b430735e9073317, type: 2}
+  _loaders:
+  - {fileID: 11400000, guid: e495301d1bd95604b850745caa2469a7, type: 2}
+  - {fileID: 11400000, guid: 538d2ce162937444c8c07ff35fd4a4d3, type: 2}
+  _transitions: []
+  _fadeGroup:
+    _id: GlobalObjectId_V1-2-468a8c1f36064ed428639e240c26d6eb-8728412946749801039-0
+  _fadeTime: 0.5
+  _blackouts:
+  - {fileID: 11400000, guid: 733c70b48be7d9445b430735e9073317, type: 2}

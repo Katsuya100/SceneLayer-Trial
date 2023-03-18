@@ -1,0 +1,48 @@
+{
+  "name": "com.katuusagi.scenelayer",
+  "displayName": "SceneLayer Trial",
+  "description": "Provides a powerful scene management and transition framework.(Trial Version)\nThe SceneLayer-Trial system is a This system provides a bird's eye view of scene/transition management for the entire game.\nThe editor manages screen transitions in a node-based manner The system enables game development with high visibility.\nEditing is also easy.",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "keywords": [
+    "scene",
+    "transition",
+    "prefab",
+    "scene management", 
+    "transition management", 
+    "SceneLayer"
+  ],
+  "author": {
+    "name": "Katuusagi a.k.a Katsuya100"
+  },
+  "samples": [
+    {
+      "displayName": "01 LoadSample",
+      "description": "Tutorial to learn how to set up the Load process.",
+      "path": "Samples~/01_LoadSample"
+    },
+    {
+      "displayName": "02 TransitionSample",
+      "description": "Tutorial to learn how to set up the Transition process.",
+      "path": "Samples~/02_TransitionSample"
+    },
+    {
+      "displayName": "03 ChildLayerSample",
+      "description": "This is a tutorial for expressing the parent-child structure of Layer.",
+      "path": "Samples~/03_ChildLayerSample"
+    },
+    {
+      "displayName": "04 CustomBehaviour",
+      "description": "This is a tutorial on customizing behaviors.",
+      "path": "Samples~/04_CustomBehaviour"
+    },
+    {
+      "displayName": "99 GameSample",
+      "description": "This is a sample use case that is actually incorporated into a game.",
+      "path": "Samples~/99_GameSample"
+    }
+  ],
+  "documentationUrl": "https://github.com/Katsuya100/SceneLayer-Trial/wiki",
+  "changelogUrl": "https://github.com/Katsuya100/SceneLayer-Trial/releases",
+  "licensesUrl": "https://github.com/Katsuya100/SceneLayer-Trial/wiki"
+}
